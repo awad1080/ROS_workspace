@@ -1,0 +1,8 @@
+prefix=/home/awad1080/Desktop/ngimu_ws/install
+
+Name: ngimu
+Description: Description of ngimu
+Version: 0.0.0
+Cflags: -I/home/awad1080/Desktop/ngimu_ws/install/include
+Libs: -L/home/awad1080/Desktop/ngimu_ws/install/lib -lNgimuReceive -lOsc99
+Requires: roscpp rospy std_msgs sensor_msgs serial message_runtime

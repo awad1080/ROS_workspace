@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="thrusters" type="thruster_driver" name="thruster_driver" />
+	<test test-name="test_thruster_driver" pkg="thrusters" type="test_thruster_driver" />
+</launch>

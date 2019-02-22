@@ -1,0 +1,11 @@
+Header header
+float32 gyroscopeX
+float32 gyroscopeY
+float32 gyroscopeZ
+float32 accelerometerX
+float32 accelerometerY
+float32 accelerometerZ
+float32 magnetometerX
+float32 magnetometerY
+float32 magnetometerZ
+float32 barometer

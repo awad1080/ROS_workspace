@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="rudder" type="rudder_control" name="rudder_control" />
+	<test test-name="test_rudder_control" pkg="rudder" type="test_rudder_control" />
+</launch>

@@ -1,0 +1,24 @@
+(cl:in-package ngimu-msg)
+(cl:export '(HEADER-VAL
+          HEADER
+          GYROSCOPEX-VAL
+          GYROSCOPEX
+          GYROSCOPEY-VAL
+          GYROSCOPEY
+          GYROSCOPEZ-VAL
+          GYROSCOPEZ
+          ACCELEROMETERX-VAL
+          ACCELEROMETERX
+          ACCELEROMETERY-VAL
+          ACCELEROMETERY
+          ACCELEROMETERZ-VAL
+          ACCELEROMETERZ
+          MAGNETOMETERX-VAL
+          MAGNETOMETERX
+          MAGNETOMETERY-VAL
+          MAGNETOMETERY
+          MAGNETOMETERZ-VAL
+          MAGNETOMETERZ
+          BAROMETER-VAL
+          BAROMETER
+))
